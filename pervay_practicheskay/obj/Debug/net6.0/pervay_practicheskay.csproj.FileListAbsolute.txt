@@ -1,0 +1,15 @@
+C:\Users\edlit\source\repos\pervay_practicheskay\pervay_practicheskay\bin\Debug\net6.0\pervay_practicheskay.exe
+C:\Users\edlit\source\repos\pervay_practicheskay\pervay_practicheskay\bin\Debug\net6.0\pervay_practicheskay.deps.json
+C:\Users\edlit\source\repos\pervay_practicheskay\pervay_practicheskay\bin\Debug\net6.0\pervay_practicheskay.runtimeconfig.json
+C:\Users\edlit\source\repos\pervay_practicheskay\pervay_practicheskay\bin\Debug\net6.0\pervay_practicheskay.dll
+C:\Users\edlit\source\repos\pervay_practicheskay\pervay_practicheskay\bin\Debug\net6.0\pervay_practicheskay.pdb
+C:\Users\edlit\source\repos\pervay_practicheskay\pervay_practicheskay\obj\Debug\net6.0\pervay_practicheskay.csproj.AssemblyReference.cache
+C:\Users\edlit\source\repos\pervay_practicheskay\pervay_practicheskay\obj\Debug\net6.0\pervay_practicheskay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlit\source\repos\pervay_practicheskay\pervay_practicheskay\obj\Debug\net6.0\pervay_practicheskay.AssemblyInfoInputs.cache
+C:\Users\edlit\source\repos\pervay_practicheskay\pervay_practicheskay\obj\Debug\net6.0\pervay_practicheskay.AssemblyInfo.cs
+C:\Users\edlit\source\repos\pervay_practicheskay\pervay_practicheskay\obj\Debug\net6.0\pervay_practicheskay.csproj.CoreCompileInputs.cache
+C:\Users\edlit\source\repos\pervay_practicheskay\pervay_practicheskay\obj\Debug\net6.0\pervay_practicheskay.dll
+C:\Users\edlit\source\repos\pervay_practicheskay\pervay_practicheskay\obj\Debug\net6.0\refint\pervay_practicheskay.dll
+C:\Users\edlit\source\repos\pervay_practicheskay\pervay_practicheskay\obj\Debug\net6.0\pervay_practicheskay.pdb
+C:\Users\edlit\source\repos\pervay_practicheskay\pervay_practicheskay\obj\Debug\net6.0\pervay_practicheskay.genruntimeconfig.cache
+C:\Users\edlit\source\repos\pervay_practicheskay\pervay_practicheskay\obj\Debug\net6.0\ref\pervay_practicheskay.dll
